@@ -1,2 +1,2 @@
-# testing testing one two three
+# FYP project: myFinan
 A financial management website for SMEs
