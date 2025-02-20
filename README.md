@@ -1,2 +1,2 @@
 # myFinan
-A financial management website for SMEs
+ Financial Management platform for SMEs
